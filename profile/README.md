@@ -7,6 +7,6 @@ We are the company behind the next generation of Pebble smartwatches. Learn more
 - [Buy a new Pebble](https://store.rePebble.com)
 - Download the new [Pebble SDK](https://developer.repebble.com/sdk)
 - Create Pebble apps in the [cloud](https://developer.repebble.com/sdk/cloud) (just like CloudPebble!)
-- Browse the [appstore](https://apps.rebble.io/en_US/watchfaces)
+- Browse the [appstore](https://apps.repebble.com/en_US/watchfaces)
 - PebbleOS is now [open source](https://github.com/coredevices/pebbleos)!
 - Join the community on [Discord](https://discord.com/invite/aRUAYFN) or [r/pebble](https://reddit.com/r/pebble) 
